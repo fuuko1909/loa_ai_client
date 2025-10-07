@@ -39,7 +39,7 @@
 #define DISPLAY_MOSI_PIN      GPIO_NUM_47
 #define DISPLAY_CLK_PIN       GPIO_NUM_21
 #define DISPLAY_DC_PIN        GPIO_NUM_40
-#define DISPLAY_RST_PIN       GPIO_NUM_45
+#define DISPLAY_RST_PIN       GPIO_NUM_46
 #define DISPLAY_CS_PIN        GPIO_NUM_41
 
 
